@@ -33,8 +33,8 @@
 ### Download
 
 * Download one of the available releases from release directory.
-* MacOS: 
-* Linux (Fedora/RHEL/CentOS): 
+* MacOS: release/appd-stats_osx-m1
+* Linux (Fedora/RHEL/CentOS): release/appd-stats_amd64
 * Download configuration file conf.yaml.
 
 ### Configure
