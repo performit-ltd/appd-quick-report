@@ -1,0 +1,52 @@
+stats:
+    # friendly profile name also used as Excel report file name
+  - name: 
+
+    # controller url eg: https://myaccount.saas.appdynamics.com
+    url: https://account.saas.appdynamics.com
+    
+    # api client name
+    client: 
+    
+    # api client secret
+    secret: 
+    
+    # account name
+    account:
+    
+    # base64 representation of account@user:password
+    auth: 
+    
+    report:
+      
+      # appears under B7:H7 merged cells
+      name: This is Report Name
+      
+      # appears under B8:C8 merged cells
+      subtitle: This is report subtitle
+      
+      # last 1 day, last 1 week, last 2 weeks, last 1 month, last 3 months, last 6 months, last 1 year
+      timerange: last 1 month
+      
+      # appears under F11:G11 merged cells
+      scope: This is module scope
+      
+      # appears under B14:C14 merged cells
+      team: This is Team Name
+      
+      # appears under D14:E14 merged cells
+      description: This is Description
+      
+      header: 
+        
+        # appears under B2:D2 merged cells
+        b2: This is B2 header
+        
+        # appears under B3:D3 merged cells
+        b3: This is B3 header
+        
+        # appears under B4:D4 merged cells
+        b4: This is B4 header
+        
+        # appears under B5:D5 merged cells
+        b5: This is B5 header
